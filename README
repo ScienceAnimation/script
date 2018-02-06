@@ -1,1 +1,3 @@
 Script utilisés pour et par Science Animation
+
+remove_appxpackage.ps1 : script powershell pour supprimer des packages préinstallés sur windows et inutile
